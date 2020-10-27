@@ -1,0 +1,6 @@
+/.ignore
+/vendor
+
+.idea
+primerospasos.iml
+cache/*.php
